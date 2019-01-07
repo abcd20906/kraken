@@ -13,7 +13,6 @@ int main()
 
     printf("hello shit\n");
     printf("hello shit\n");
-    printf("hello shit\n");
 
     return 0;
 }
