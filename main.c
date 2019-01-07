@@ -12,6 +12,8 @@ int main()
     printf("hello doggy\n");
 
     printf("hello shit\n");
+    printf("hello shit\n");
+    printf("hello shit\n");
 
     return 0;
 }
